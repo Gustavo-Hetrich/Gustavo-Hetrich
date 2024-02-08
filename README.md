@@ -18,6 +18,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavo-hetrich&show_icons=true&locale=en&layout=compact" alt="gustavo-hetrich" /></p>
 
+<p><img align="Right" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo-hetrich&" alt="gustavo-hetrich" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavo-hetrich&show_icons=true&locale=en" alt="gustavo-hetrich" /></p>
 
-<p><img align="Right" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo-hetrich&" alt="gustavo-hetrich" /></p>
+
