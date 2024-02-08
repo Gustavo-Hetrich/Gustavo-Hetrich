@@ -1,4 +1,4 @@
-[![MasterHead](https://i.redd.it/a3ftzqi7ide71.png)
+![MasterHead](https://i.redd.it/a3ftzqi7ide71.png)
 <h1 align="center">Hello, how are you? I'm Gustavo Hetrich</h1>
 <h3 align="center">Cybersecurity and Artifical Inteligence Student</h3>
 (img align="right" alt="Coding" width="400" src="https://i.redd.it/tbl2zgakqgk61.png")
