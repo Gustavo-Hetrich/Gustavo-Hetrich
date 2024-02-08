@@ -2,7 +2,6 @@
 <h1 align="center">Hello, how are you? I'm Gustavo Hetrich</h1>
 <h3 align="center">Cybersecurity and Artifical Inteligence Student</h3>
 (img align="right" alt="Coding" width="400" src="https://i.redd.it/tbl2zgakqgk61.png")
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavo-hetrich&label=Profile%20views&color=0e75b6&style=flat" alt="gustavo-hetrich" /> </p>
 
 - 🌱 I’m currently learning **HTML and Javascript**
 
