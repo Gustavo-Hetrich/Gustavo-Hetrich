@@ -1,6 +1,5 @@
 ![MasterHead](https://i.redd.it/a3ftzqi7ide71.png)
 # Hey, how are you doing? I'm Gustavo Hetrich
-🌱 I’m currently learning JavaScript, C# and TensorFlow<br><br>📫 How to reach me gustavohetrich@outlook.com<br><br>📄 Know about my experiences https://gustavo-hetrich.notion.site/Ol-Hello-6d72826c8dec4330b042c9ec6a8001b6
 
 
 # 💻 Tech Stack:
