@@ -9,7 +9,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-gray?style=for-the-badge&logo=Metasploit&logoWidth=20) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=Burp%20Suite&logoColor=white&logoWidth=20) ![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=Wireshark&logoColor=white&logoWidth=20) ![ISC2 - CC](https://img.shields.io/badge/ISC2%20--%20CC-green?style=for-the-badge&logo=isc2&logoColor=black&logoWidth=20)
 
 # 🌑 About me:
-I'm a cybersecurity, pentestesting and artificial intelligence student trying to learn web development to improve my cybersecurity skills, hope we can talk sometime! 🙃
+I'm a cybersecurity analyst focusing on Red team and pentesting, but i do like to do some side projects, hope we can talk sometime! 🙃
 
 
 ## 🌐 Socials:
